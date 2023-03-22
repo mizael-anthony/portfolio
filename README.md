@@ -1,2 +1,2 @@
 # ml-net
-Machine Learning avec ML .NEt
+Machine Learning avec ML .NET
